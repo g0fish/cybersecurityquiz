@@ -1,4 +1,4 @@
-These questions were derived from the NIST guidance "Small Business Information Security: The Funadmentals".
+These questions were derived from the NIST guidance "Small Business Information Security: The Funadmentals" and includes some questions specifically relevant to Hawaii.
 
 URL: https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.7621r1.pdf
 
@@ -26,7 +26,7 @@ URL: https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.7621r1.pdf
   A.  True
   B.  False
   
-4.  An information security vulnerability is anything that might adversely affec the information your business needs to run.
+4.  An information security vulnerability is anything that might adversely affect the information your business needs to run.
 
   A.  True
   B.  False
@@ -34,3 +34,11 @@ URL: https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.7621r1.pdf
 5.  Name the three categories of information security threats:
 
 [INSERT LIST HERE]
+
+6.  A proper information security program executes five core functions: Identify, Protect, Detect, Respond and Recover.  Which function includes determining who as access to your business information?
+
+[INSERT CORE FUNCTION]
+
+7.  Limiting access to only the information an employee requires to do their job is which Core Function of information security?
+
+[INSERT CORE FUNCTION]
